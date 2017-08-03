@@ -1,0 +1,1 @@
+# Was ist bei der Digitalisierung anders {#was-ist-bei-der-digitalisierung-anders}

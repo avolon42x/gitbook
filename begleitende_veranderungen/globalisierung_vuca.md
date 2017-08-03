@@ -1,0 +1,1 @@
+## Globalisierung (VUCA) {#globalisierung-vuca}

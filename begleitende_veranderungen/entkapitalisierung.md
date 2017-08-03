@@ -1,0 +1,1 @@
+## Entkapitalisierung {#entkapitalisierung}
