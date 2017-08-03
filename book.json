@@ -33,7 +33,4 @@
             "isShowIssues": false,
         }
     }
-
-  "plugins": ["creativecommons"],
-
 }
