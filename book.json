@@ -3,7 +3,8 @@
     "title": "My Book",
     "author": "Author",
     "pluginsConfig": {
-        "autocover": {
+       
+         "autocover": {
             "font": {
                 "size": null,
                 "family": "Impact",
@@ -16,7 +17,6 @@
             "background": {
                 "color": "#09F"
             }
-        }
     "page-footer": {
             "description": "modified at",
             "signature": "Aleen",
