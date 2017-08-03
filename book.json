@@ -1,5 +1,5 @@
 {
-"plugins": ["autocover",],
+"plugins": ["autocover"],
     "title": "My Book",
     "author": "Author",
         "pluginsConfig": {
