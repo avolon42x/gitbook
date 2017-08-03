@@ -6,7 +6,7 @@
         "autocover": {
             "font": {
                 "size": null,
-                "family": "Impact",
+                "family": "Helvetica",
                 "color": "#FFF"
             },
             "size": {
@@ -18,4 +18,30 @@
             }
         }
     }
+}
+
+{
+    "plugins": [
+        "page-footer"
+    ],
+    "pluginsConfig": {
+        "page-footer": {
+            "signature": "Aleen",
+            "format": "yyyy-MM-dd hh:mm:ss",
+            "copyright": "Copyright &#169; aleen42",
+            "timeColor": "#666",
+            "copyrightColor": "#666",
+            "utcOffset": "8",
+            "isShowQRCode": true,
+            "baseUri": "https://www.gitbook.com/book/hartmuthgieldanowski/",
+            "isShowIssues": false,
+
+        }
+    }
+}
+
+{
+  "plugins": ["creativecommons"]
+{% creativecommons type="by-nc-nd" %}
+{% endcreativecommons %}
 }
