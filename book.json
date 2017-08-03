@@ -35,6 +35,5 @@
     }
 
   "plugins": ["creativecommons"],
-{% creativecommons type="by-nc-nd" %},
-{% endcreativecommons %},
+
 }
