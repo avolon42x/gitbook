@@ -1,5 +1,5 @@
 {
-"plugins": ["autocover", "page-footer"],
+"plugins": ["autocover", "page-footer", "creativecommons"],
     "title": "My Book",
     "author": "Author",
         "pluginsConfig": {
