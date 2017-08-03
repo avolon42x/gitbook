@@ -1,27 +1,30 @@
 # Lernziele {#lernziele}
 
-Kennen
+Folgende Lernziele[^1] sollen mit dem vorliegenden Handbuch erreicht werden:
 
-*   Grundlagen Psychologie
-*   Management Theorien
-*   Organisationslehre, Fundamentaler Aufbau
-*   Begleitende Veränderungen
-*   Produktentwicklung (Design, Value Proposition Design, Prototyping)
-*   Marktentwicklung (Lean Startup, Growth Hacking)
+## Kennen
 
-Verstehen
+* Grundlagen Psychologie
+* Management Theorien
+* Organisationslehre, Fundamentaler Aufbau
+* Begleitende Veränderungen
+* Produktentwicklung \(Design, Value Proposition Design, Prototyping\)
+* Marktentwicklung \(Lean Startup, Growth Hacking\)
 
-*   Unterschied Organisationaler Change und Digitale Transformation verstehen
-*   Unterschiede der Organisatorischen Entwicklung (von der Industrialisierung hin zur  Digitalisierung)
-*   Einflussfaktoren auf “Ressource Mensch”
-*   Systemsthinking
-*   Neue Ökonomische Modelle
+## Verstehen
 
-Anwenden &amp; Analysieren
+* Unterschied Organisationaler Change und Digitale Transformation verstehen
+* Unterschiede der Organisatorischen Entwicklung \(von der Industrialisierung hin zur  Digitalisierung\)
+* Einflussfaktoren auf “Ressource Mensch”
+* Systemsthinking
+* Neue Ökonomische Modelle
 
-*   Transformations Canvas anwenden
-*   Innovationskultur Modell
+## Anwenden & Analysieren
 
-Lernziele nach Bloom:
+* Transformations Canvas anwenden
+* Innovationskultur Modell
 
-1.Kennen, 2.Verstehen, 3.Anwenden, 4.Analysieren, 5.Synthetisieren (Zusammenführen), 6.Beurteilen (Evaluation)
+
+
+[^1]: Lernziele nach Bloom: 1 - Kennen, 2 - Verstehen, 3 - Anwenden, 4 - Analysieren, 5 - Synthetisieren \(Zusammenführen\) - Beurteilen \(Evaluation\)
+

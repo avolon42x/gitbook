@@ -3,9 +3,6 @@
 ## Einführung
 
 * [Einleitung](README.md)
-* [Organizational Change Management](organizational_change_management.md)
-* [Lernziele](lernziele.md)
-* [Tagesablauf](tagesablauf.md)
 * [Was ist Change und Transformation](was_ist_change_und_transformation.md)
 * [Was sind Unternehmen](was_sind_unternehmen.md)
 * [Was ist bei der Digitalisierung anders](was_ist_bei_der_digitalisierung_anders/README.md)
