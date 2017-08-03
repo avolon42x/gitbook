@@ -16,7 +16,7 @@
             },
             "background": {
                 "color": "#09F"
-            }
+            },
     "page-footer": {
             "description": "modified at",
             "signature": "Aleen",
@@ -33,5 +33,5 @@
             "issueNum": "8",
             "token": "",
             "style": "normal"
-        }
+        },
 }
