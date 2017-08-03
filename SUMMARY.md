@@ -35,7 +35,6 @@
 ## Anhang
 
 * [References](references/README.md)
-  * [References](references/references.md)
-  * [Links](references/links.md)
-  * [Tools](references/tools.md)
+* [Links](references/links.md)
+* [Tools](references/tools.md)
 

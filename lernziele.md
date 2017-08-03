@@ -24,4 +24,4 @@ Anwenden &amp; Analysieren
 
 Lernziele nach Bloom:
 
-1.Kennen, 2.Verstehen, 3.Anwenden, 4.Analysieren, 5.Zusammenführen (Synthese), 6.Beurteilen (Evaluation)
+1.Kennen, 2.Verstehen, 3.Anwenden, 4.Analysieren, 5.Synthetisieren (Zusammenführen), 6.Beurteilen (Evaluation)
