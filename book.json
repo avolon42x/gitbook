@@ -15,7 +15,7 @@
             },
             "background": {
                 "color": "#09F"
-            }
+            },
         }
     }
 
@@ -35,6 +35,6 @@
     }
 
   "plugins": ["creativecommons"],
-{% creativecommons type="by-nc-nd" %}
-{% endcreativecommons %}
+{% creativecommons type="by-nc-nd" %},
+{% endcreativecommons %},
 }
