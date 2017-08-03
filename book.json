@@ -18,9 +18,7 @@
             }
         }
     }
-}
 
-{
     "plugins": [
         "page-footer"
     ],
@@ -38,9 +36,7 @@
 
         }
     }
-}
 
-{
   "plugins": ["creativecommons"]
 {% creativecommons type="by-nc-nd" %}
 {% endcreativecommons %}
