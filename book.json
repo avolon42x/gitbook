@@ -16,7 +16,8 @@
 "background": {
 "color": "#09F"
 },
-}
+},
+    "pluginsConfig": { 
 "page-footer": {
 "description": "modified at",
 "signature": "Aleen",
@@ -31,3 +32,5 @@
 }
 }
 }
+}
+    
