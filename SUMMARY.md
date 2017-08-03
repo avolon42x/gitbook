@@ -1,6 +1,6 @@
 # Summary
 
-* [Test](README.md)
+* [Einleitung](README.md)
 * [Organizational Change Management](organizational_change_management.md)
 * [Lernziele](lernziele.md)
 * [Tagesablauf](tagesablauf.md)
