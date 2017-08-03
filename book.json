@@ -1,5 +1,5 @@
 {
-    "plugins": ["autocover"],
+    "plugins": ["autocover", "page-footer"],
     "title": "My Book",
     "author": "Author",
     "pluginsConfig": {
@@ -18,12 +18,7 @@
             }
         }
     }
-}
 
-{
-    "plugins": [
-        "page-footer"
-    ],
     "pluginsConfig": {
         "page-footer": {
             "description": "modified at",
@@ -43,4 +38,5 @@
             "style": "normal"
         }
     }
+}
 }
