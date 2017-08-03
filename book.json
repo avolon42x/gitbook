@@ -19,9 +19,7 @@
         }
     }
 
-    "plugins": [
-        "page-footer"
-    ],
+    "plugins": ["page-footer"],
     "pluginsConfig": {
         "page-footer": {
             "signature": "Aleen",
@@ -33,11 +31,10 @@
             "isShowQRCode": true,
             "baseUri": "https://www.gitbook.com/book/hartmuthgieldanowski/",
             "isShowIssues": false,
-
         }
     }
 
-  "plugins": ["creativecommons"]
+  "plugins": ["creativecommons"],
 {% creativecommons type="by-nc-nd" %}
 {% endcreativecommons %}
 }
