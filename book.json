@@ -1,5 +1,5 @@
 {
-"plugins": ["autocover", "page-footer", "creativecommons"],
+"plugins": ["autocover", "layout",],
     "title": "My Book",
     "author": "Author",
         "pluginsConfig": {
@@ -19,12 +19,6 @@
                             "background": {
                                     "color": "#09F"
                                         }
-                                },
-        "pluginsConfig": { 
-                "page-footer": {
-                        "isShowQRCode": true,
-                        "baseUri": "https://www.gitbook.com/book/hartmuthgieldanowski/"
-}
-}
-}
-}
+                                }
+                        }
+                }
