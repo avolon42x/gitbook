@@ -28,7 +28,9 @@
 
 ## Methoden und Werkzeuge
 
-* [Test](methoden-und-werkzeuge/test.md)
+* [Mensch](methoden-und-werkzeuge/test.md)
+* [Strukturen](methoden-und-werkzeuge/strukturen.md)
+* Abläufe
 
 ## Anhang
 
