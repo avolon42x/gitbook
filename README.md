@@ -2,7 +2,7 @@
 
 Dieses Paper dient als Grundlagenpapier im Modul *Organizational Change* im CAS Digital Business Development der FHNW Olten.
 
-![](/assets/external-link.svg)https://www.fhnw.ch/de/weiterbildung/wirtschaft/cas-digital-business-development
+![](/assets/external-link.png)https://www.fhnw.ch/de/weiterbildung/wirtschaft/cas-digital-business-development
 
 Author: Hartmuth Gieldanowski
 
