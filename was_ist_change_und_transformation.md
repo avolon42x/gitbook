@@ -1,4 +1,4 @@
-# Was ist Organizational Change  {#was-ist-change-und-transformation}
+# Was ist Organizational Change {#was-ist-organizational-change}
 
 
 

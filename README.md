@@ -1,4 +1,4 @@
-# Einleitung {#Einleitung}
+# Über {#about}
 
 Dieses Paper dient als Grundlagenpapier im Modul *Organizational Change* des Studiengangs CAS Digital Business Development der FHNW Olten.
 
