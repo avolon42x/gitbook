@@ -1,10 +1,12 @@
 # Einleitung {#test}
 
-CAS Digital Business, FHNW Olten, Hartmuth Gieldanowski 2017/2018
+Dieses Paper dient als Grundlagenpapier im Modul *Organizational Change* im CAS Digital Business Development der FHNW Olten.
 
+![](/assets/external-link.svg)https://www.fhnw.ch/de/weiterbildung/wirtschaft/cas-digital-business-development
 
+Author: Hartmuth Gieldanowski
 
-
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
 Change Management ...
 
