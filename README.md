@@ -5,7 +5,7 @@ Dieses Paper dient als Grundlagenpapier im Modul *Organizational Change* des Stu
 ![](/assets/external-link.png) https://www.fhnw.ch/de/weiterbildung/wirtschaft/cas-digital-business-development
 
 Autoren:
-* Hartmuth Gieldanowski. Follow me on ![https://www.twitter.com/hgieldanowski](/assets/twitter.svg)
+* Hartmuth Gieldanowski. Follow me on <a href="https://www.twitter.com/hgieldnaowski"><img src="/assets/twitter.svg"></a>
 
 
 <hr>
