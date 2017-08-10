@@ -10,8 +10,16 @@ Die Komplexität und Dynamik der heutigen Welt lässt sich nur sehr begrenzt in 
 
 Dieses Handbuch hat auch keinen Anspruch darauf Vollständigkeit zu erreichen sondern versucht dem interessierten Leser erste Hinweise auf seine mögliche persönliche Lernreise zu geben. Es soll quasi eine "Landkarte der Veränderung in Unternehmen" darstellen. 
 
-### Der Aufbau
 
+## Der Aufbau
+Die einzelnen Themenkapitel werden folgenden Aufbau haben: 
+* Themen werden kurz erläutert (Wikipedia-Style)
+* Symptome und Signale werden exemplarisch gezeigt
+* Die Wirkung auf die Organisation (Regeln), Menschen und Technologie und Umwelt werden anaylsiert
+* Erkenntnisse und Empfehlungen werden angegeben
+* Weiterführende Links zum Thema
+
+Damit soll der interessierte Leser die Möglichkeit haben relativ rasch einen Überblick über die möglichen Themen für seine Organisation zu erlangen und das notwendige Basiswissen sich anzueignen.
 
 
 
