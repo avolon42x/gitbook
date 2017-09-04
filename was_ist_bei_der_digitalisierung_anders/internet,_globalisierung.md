@@ -1,1 +1,4 @@
-## Internet, Globalisierung {#internet-globalisierung}
+## Vernetzung {#internet-globalisierung}
+
+Globalisierung dadurch
+
