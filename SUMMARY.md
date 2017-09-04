@@ -3,8 +3,8 @@
 ## Einführung
 
 * [Über](README.md)
-* [Einleitung](einleitung.md)
 * [Was ist Change und Transformation](was_ist_change_und_transformation.md)
+* [Einleitung](einleitung.md)
 * [Was sind Unternehmen](was_sind_unternehmen.md)
 * [Was ist bei der Digitalisierung anders](was_ist_bei_der_digitalisierung_anders/README.md)
   * [Internet, Globalisierung](was_ist_bei_der_digitalisierung_anders/internet,_globalisierung.md)
@@ -28,7 +28,7 @@
 
 * [Mensch](methoden-und-werkzeuge/test.md)
 * [Strukturen](methoden-und-werkzeuge/strukturen.md)
-* Abläufe
+* [Abläufe](methoden-und-werkzeuge/ablaufe.md)
 
 ## Anhang
 
