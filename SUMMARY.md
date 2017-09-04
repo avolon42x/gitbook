@@ -21,7 +21,6 @@
   * [Motivation, Wertschätzung](grundlagen/motivation,_wertschatzung.md)
   * [Biases](grundlagen/biases.md)
   * [Rituale und Kultur](grundlagen/rituale_und_kultur.md)
-  * [Systemthinking](grundlagen/systemthinking.md)
   * [Methoden wie Agilität, Design Thinking](grundlagen/methoden_wie_agilitat,_design_thinking.md)
 
 ## Methoden und Werkzeuge
