@@ -2,7 +2,7 @@
 
 Dieses Dokument dient als Grundlagenpapier im Modul _Organizational Change_ des Studiengangs CAS Digital Business Development der FHNW Olten.
 
-![](.gitbook/assets/external-link%20%281%29.png) [https://www.fhnw.ch/de/weiterbildung/wirtschaft/cas-digital-business-development](https://www.fhnw.ch/de/weiterbildung/wirtschaft/cas-digital-business-development)
+[https://www.fhnw.ch/de/weiterbildung/wirtschaft/cas-digital-business-development](https://www.fhnw.ch/de/weiterbildung/wirtschaft/cas-digital-business-development)
 
 Autoren:
 
