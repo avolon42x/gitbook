@@ -1,0 +1,1 @@
+## Rituale und Kultur {#rituale-und-kultur}

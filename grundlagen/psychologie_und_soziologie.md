@@ -1,0 +1,1 @@
+## Psychologie und Soziologie {#psychologie-und-soziologie}
