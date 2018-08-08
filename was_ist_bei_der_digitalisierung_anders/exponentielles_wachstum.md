@@ -1,1 +1,0 @@
-## Exponentielles Wachstum {#exponentielles-wachstum}

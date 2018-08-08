@@ -1,1 +1,0 @@
-## Automatisierung {#automatisierung}

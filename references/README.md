@@ -1,1 +1,0 @@
-# References and Reading List {#references}

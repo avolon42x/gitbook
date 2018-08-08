@@ -1,1 +1,0 @@
-# Was sind Unternehmen {#was-sind-unternehmen}
