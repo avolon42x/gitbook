@@ -4,7 +4,6 @@
 
 ## Einführung
 
-* [Über](einfuehrung/ueber.md)
 * [Was ist Change und Transformation](einfuehrung/was_ist_change_und_transformation.md)
 * [Einleitung](einfuehrung/einleitung.md)
 * [Was sind Unternehmen](einfuehrung/was_sind_unternehmen.md)
