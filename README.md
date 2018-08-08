@@ -6,7 +6,7 @@ Dieses Dokument dient als Grundlagenpapier im Modul _Organizational Change_ des 
 
 Autoren:
 
-* Hartmuth Gieldanowski [![](.gitbook/assets/twitter%20%281%29.svg)](https://twitter.com/hgieldanowski)
+* Hartmuth Gieldanowski ![](.gitbook/assets/twitter%20%282%29.svg) 
 * Kontaktiere mich wenn Du mitmachen willst
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)  
