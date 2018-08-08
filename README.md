@@ -1,4 +1,4 @@
-# Introduction
+# Über
 
 Dieses Dokument dient als Grundlagenpapier im Modul _Organizational Change_ des Studiengangs CAS Digital Business Development der FHNW Olten.
 
