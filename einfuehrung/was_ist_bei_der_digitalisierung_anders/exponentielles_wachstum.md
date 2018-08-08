@@ -1,0 +1,4 @@
+# Exponentielles Wachstum
+
+
+

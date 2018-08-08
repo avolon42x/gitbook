@@ -1,4 +1,0 @@
-## Befangenheiten {#biases}
-
-
-

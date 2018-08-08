@@ -1,4 +1,4 @@
-## Emazipation der Kunden {#emazipation-der-kunden-powershift}
+# Emazipation der Kunden -&gt; Powershift
 
 -&gt; Powershift
 

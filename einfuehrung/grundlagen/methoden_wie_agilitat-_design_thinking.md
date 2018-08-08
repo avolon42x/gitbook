@@ -1,4 +1,4 @@
-## Werkzeuge {#methoden-wie-agilit-t-design-thinking}
+# Methoden wie Agilität, Design Thinking
 
 Methoden wie Agilität, Design Thinking, System Thinking
 
@@ -9,6 +9,4 @@ Warum es ein neues Ökonomisches Verständnis braucht
 * Doughnut Economy
 * Grundeinkommen
 * …
-
-
 

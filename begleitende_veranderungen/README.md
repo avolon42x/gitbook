@@ -1,1 +1,0 @@
-# Begleitende Veränderungen {#begleitende-ver-nderungen}

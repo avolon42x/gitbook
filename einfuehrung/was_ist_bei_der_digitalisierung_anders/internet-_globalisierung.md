@@ -1,0 +1,4 @@
+# Vernetzung
+
+Globalisierung dadurch
+
